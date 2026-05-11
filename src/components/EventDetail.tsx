@@ -98,11 +98,11 @@ export default function EventDetail() {
                 <div className="space-y-1">
                   <p className="text-base font-serif-secondary text-dark-brown/70 max-w-xs mx-auto italic">
                     Sitalang susukan RT 06/08, <br />
-                    Susukan , Ungaran timur
+                    Susukan, Ungaran Timur
                   </p>
                 </div>
                 <motion.a
-                  href="https://www.google.com/maps/search/?api=1&query=Sitalang+susukan+RT+06/08,+Susukan+,+Ungaran+timur"
+                  href="https://www.google.com/maps/search/?api=1&query=-7.124538,110.413889"
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.05, backgroundColor: "#3E2723", color: "#FFFFF0" }}
@@ -126,7 +126,7 @@ export default function EventDetail() {
           className="mt-12 h-80 w-full border border-gold-metallic/20 grayscale hover:grayscale-0 transition-all duration-1000 shadow-lg overflow-hidden"
         >
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31673.052523556038!2d110.38994390557842!3d-7.110748231640226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e708f330bd07fe1%3A0x3deec2f7278d69ee!2sSusukan%2C%20Ungaran%20Timur%2C%20Semarang%20Regency%2C%20Central%20Java!5e0!3m2!1sen!2sid!4v1778425670312!5m2!1sen!2sid"
+            src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3959.0125829099784!2d110.41131607499841!3d-7.124537992879278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zN8KwMDcnMjguMyJTIDExMMKwMjQnNTAuMCJF!5e0!3m2!1sen!2sid!4v1778463731893!5m2!1sen!2sid"
             width="100%"
             height="100%"
             style={{ border: 0 }}
